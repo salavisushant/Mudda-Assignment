@@ -18,7 +18,7 @@
 4. try and implemented translator in controller for post and get request.
 5. after that I installed redis for stored data in cache format.
 
-## Connect api in nodemon for checking 
+## Connect api in Postmon for checking 
 
 1. for get request simply put this "http://localhost:4000/translate"
 2. for post request we have pass one parameter as a language like this - http://localhost:4000/translate/hi
